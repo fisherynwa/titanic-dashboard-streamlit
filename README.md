@@ -26,14 +26,14 @@ git clone https://github.com/fisherynwa/titanic-dashboard-streamlit.git
 cd titanic_dashboard
 ```
 
-# Set up  env
+# Set up virt env
 
 Using conda:
  
 one can mimic my env exactly: 
 ```bash
-  conda env create -f environment.yml
-  conda activate titanic_dashboard
+conda env create -f environment.yml
+conda activate titanic_dashboard
 ```
 
 Using pip:
