@@ -14,7 +14,7 @@ This dashboard contains 4 tabs
  - Home (this page is essenatial)
  - Dynamic Plots -- Multiple plots are provided that can be adjusted based on the selected filter options
  - Statis Plots -- Users can view multiple pie charts that are fixed; the filters do not affect them
- - Missing Data -- One can find info about 
+ - Missing Data -- One can find info about missingness
 
 
 ## Here we go
