@@ -5,9 +5,10 @@ This repo adopts Streamlit-based interactive dashboard for(quickly) exploring th
 This dashboard provides dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and are subject to change upon request.
 
 
+
 ![Demo Preview](/demo/demo.png)
 
-## Dashboard Navigation TABS
+## Dashboard Navigation Tabs
 
 This dashboard contains 4 tabs
 
@@ -17,21 +18,18 @@ This dashboard contains 4 tabs
  - Missing Data -- One can find info about 
 
 
- ## Here we go
+## Here we go
 
-
-### lone the repo**
-
+### clone the repo**
 
 ```bash
-git clone
+git clone https://github.com/fisherynwa/titanic-dashboard-streamlit.git
 cd titanic_dashboard
 ```
 
 # Set up  env
 
 Using conda:
-
  
 one can mimic my env exactly: 
 ```bash
@@ -50,7 +48,6 @@ pip install -r requirements.txt
 ```
 streamlit run Home.py
 ```
-
 
 
 Dependencies (min env)
