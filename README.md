@@ -1,8 +1,7 @@
 # Titanic Dashboard
 
 
-This repo adopts Streamlit-based interactive dashboard for(quickly) exploring the Titanic dataset.
-This dashboard provides dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and are subject to change upon request.
+This repo utilizes a Streamlit-based interactive dashboard for quick exploration of the Titanic dataset. The dashboard provides several dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and may be modified upon request.
 
 
 
