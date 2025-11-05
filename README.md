@@ -1,11 +1,13 @@
-# ***Titanic Dashboard
+# Titanic Dashboard
 
-This dashboard visualizes passenger data from the Titanic dataset. Note that the presented visualizations are exemplary and are subject to change upon request.
+
+This repo adopts Streamlit-based interactive dashboard for(quickly) exploring the Titanic dataset.
+This dashboard provides dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and are subject to change upon request.
 
 
 ![Demo Preview](/demo/demo.png)
 
-# Dashboard Navigation
+## Dashboard Navigation TABS
 
 This dashboard contains 4 tabs
 
@@ -31,7 +33,7 @@ cd titanic_dashboard
 Using conda:
 
  
-Alternatively, one can mimic my env exactly: 
+one can mimic my env exactly: 
 ```bash
   conda env create -f environment.yml
   conda activate titanic_dashboard
