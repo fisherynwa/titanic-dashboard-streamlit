@@ -20,7 +20,7 @@ This dashboard contains 4 tabs
 
 ## Here we go
 
-### Clone the repo**
+### Clone the repo
 
 ```bash
 git clone https://github.com/fisherynwa/titanic-dashboard-streamlit.git
