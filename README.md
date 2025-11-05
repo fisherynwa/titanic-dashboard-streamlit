@@ -15,10 +15,10 @@ This dashboard contains 4 tabs
  - Missing Data -- One can find info about 
 
 
- ## **Here we go **
+ ## Here we go
 
 
-### (I) **Clone the repo**
+### lone the repo**
 
 
 ```bash
@@ -26,9 +26,9 @@ git clone
 cd titanic_dashboard
 ```
 
-# (II) Set up your env
+# Set up  env
 
-By means of Conda:
+Using conda:
 
  
 Alternatively, one can mimic my env exactly: 
@@ -37,18 +37,21 @@ Alternatively, one can mimic my env exactly:
   conda activate titanic_dashboard
 ```
 
-By means of pip:
+Using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# (III) Run the Titanic dashboard
+# Run the Titanic dashboard
 
 ```
 streamlit run Home.py
+```
 
- Dependencies (min env)
+
+
+Dependencies (min env)
   - python=3.12
   - numpy
   - pandas
