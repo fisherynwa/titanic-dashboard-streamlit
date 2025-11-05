@@ -1,0 +1,13 @@
+name: titanic_dashboard
+channels:
+  - bioconda
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - plotly
+  - streamlit
+  - seaborn
+prefix: /opt/anaconda3/envs/titanic_dashboard
