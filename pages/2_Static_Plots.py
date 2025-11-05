@@ -47,5 +47,4 @@ pie_charts.add_trace(
             go.Pie(labels=titanic.loc[titanic['embarked'] == 'Q']['survived'], pull = [.1, .1],
                    title = 'Embarked Queenstown  vs. Survived'), row=1, col=3)
 
-#fig_comb.update_layout(title_text="Gene Expression Features")
 st.plotly_chart(pie_charts, width="stretch")

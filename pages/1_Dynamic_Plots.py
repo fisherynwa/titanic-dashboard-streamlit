@@ -68,7 +68,7 @@ st.markdown(
 )
 
 # --------------------------------------------------
-# 2 Columns for side-by-side visualizations
+# 2 (top) columns for side-by-side visualizations
 # --------------------------------------------------
 col1, col2 = st.columns(2, gap="large")
 
@@ -85,7 +85,7 @@ with col2:
     st.plotly_chart(fig2, width="stretch")
 
 # --------------------------------------------------
-# 2 (bottom) Columns for side-by-side visualizations
+# 2 (bottom) columns for side-by-side visualizations
 # --------------------------------------------------
 col3, col4 = st.columns(2, gap="large")
 
@@ -106,7 +106,7 @@ with col4:
 # --------------------------------------------------
 
 if len(selected_class_town) > 0:
-    #selected_class_town = titanic["embark_town"].dropna().unique()
+
     col5, col6 = st.columns(2, gap="large")
     
     town_df = filtered_data[filtered_data["embark_town"].isin(selected_class_town)]
