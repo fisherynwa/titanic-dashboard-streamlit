@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 # Run the Titanic dashboard
 
-```
+```python
 streamlit run Home.py
 ```
 
