@@ -11,7 +11,7 @@ This repo utilizes a Streamlit-based interactive dashboard for quick exploration
 
 This dashboard contains 4 tabs
 
- - Home (this page is essenatial)
+ - Home (this page is essential)
  - Dynamic Plots -- Multiple plots are provided that can be adjusted based on the selected filter options
  - Statis Plots -- Users can view multiple pie charts that are fixed; the filters do not affect them
  - Missing Data -- One can find info about missingness
