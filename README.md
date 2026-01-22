@@ -12,9 +12,9 @@ This repo utilizes a Streamlit-based interactive dashboard for exploring the Tit
 This dashboard contains 4 tabs
 
  - Home (this page is essential)
- - Dynamic Plots -- Multiple plots dynamically adjust based on user selections
+ - Dynamic Plots -- Multiple plots can be dynamically adjusted based on the dashboard filters
  - Static Plots -- Users can view multiple pie charts that are fixed; the filters do not affect them
- - Missing Data -- Information about data missingness patterns across the Titanic dataset
+ - Missing Data -- Information about data missingness in the Titanic dataset
 
 
 ## Here we go
