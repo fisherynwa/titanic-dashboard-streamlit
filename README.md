@@ -1,7 +1,7 @@
 # Titanic Dashboard
 
 
-This repo utilizes a Streamlit-based interactive dashboard for quick exploration of the Titanic dataset. The dashboard provides several dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and may be modified upon request.
+This repo utilizes a Streamlit-based interactive dashboard for exploring the Titanic dataset. The following dashboard provides several dynamic and static visualizations of passenger data, survival statistics, and demographic distributions. Note that the presented visualizations are exemplary and may be modified upon request.
 
 
 
@@ -12,9 +12,9 @@ This repo utilizes a Streamlit-based interactive dashboard for quick exploration
 This dashboard contains 4 tabs
 
  - Home (this page is essential)
- - Dynamic Plots -- Multiple plots are provided that can be adjusted based on the selected filter options
- - Statis Plots -- Users can view multiple pie charts that are fixed; the filters do not affect them
- - Missing Data -- One can find info about missingness
+ - Dynamic Plots -- Multiple plots dynamically adjust based on user selections
+ - Static Plots -- Users can view multiple pie charts that are fixed; the filters do not affect them
+ - Missing Data -- Information about data missingness patterns across the Titanic dataset
 
 
 ## Here we go
